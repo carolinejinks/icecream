@@ -1,0 +1,22 @@
+/* name this database: icecream */
+
+CREATE TABLE icecream (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    flavor TEXT(120),
+    location TEXT(50),
+    vendor TEXT(50),
+    updated TEXT
+    );
+
+/* access MySQL/MariaDB from the Terminal - Mac only:
+
+cd /Applications/XAMPP/xamppfiles/bin;./mysql --user=root --password=
+
+SHOW DATABASES;
+
+USE sockmarket
+
+   -- type SQL queries --
+
+QUIT
+*/
