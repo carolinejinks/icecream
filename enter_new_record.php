@@ -16,7 +16,7 @@
 
 <h1>Bizarre Ice Cream: Enter New Flavor</h1>
 
-<p class="middle"><a href="inventory.php">View full inventory</a></p>
+<p class="middle"><a href="inventory.php">View full flavor list</a></p>
 
 <div id="flavors">
 
